@@ -58,3 +58,8 @@ Conclusion
 This task demonstrated the power of AWS's serverless capabilities and its ability to handle automated data processing workflows. The Lambda function, paired with S3 and EC2, formed a scalable and efficient architecture. The challenges encountered, such as handling bucket permissions and configuring event triggers, provided valuable learning experiences. The setup is well-suited for real-world use cases requiring automation and integration in cloud environments.
 
 **The output for the Task**:
+<img width="958" alt="Image" src="https://github.com/user-attachments/assets/63f4c152-1acf-42dc-b7a1-a2247df759d6" />
+
+<img width="960" alt="Image" src="https://github.com/user-attachments/assets/eec9898a-c586-4a50-ad90-56e02d699e3a" />
+
+<img width="956" alt="Image" src="https://github.com/user-attachments/assets/80284600-4a04-4efc-93fa-2a5c8fba35ce" />
